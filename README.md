@@ -1,5 +1,5 @@
-# sim - Laravel Project
+Laravel Project
 
-Abarquez, Ronbell B.
+Pepito, Lady Jean 
 
 BSIT - 2E
