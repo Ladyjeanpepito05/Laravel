@@ -10,7 +10,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/👨‍💻_Developer-Lady_Jean_E._Pepito-8b5cf6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1e1e2e&color=8b5cf6&logoWidth=25" alt="Developer" />
-    <img src="https://img.shields.io/badge/📚_Course-BSIT_2D-3b82f6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1e1e2e&color=3b82f6" alt="Class" />
+    <img src="https://img.shields.io/badge/📚_Course-BSIT_2E-3b82f6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1e1e2e&color=3b82f6" alt="Class" />
   </p>
 
   <!-- Project Tech Stack Badges -->
@@ -44,7 +44,7 @@
 | **Developer** | Lady Jean E. Pepito |
 | **Course & Section** | BSIT - 2E |
 | **Technology Stack** | Laravel 10+|
-| **Repository** | [GitHub Repository Link] (https://github.com/Ladyjeanpepito05/Laravel) |
+| **Repository** | [Click to Access](https://github.com/Ladyjeanpepito05/Laravel) |
 | **Postman Workspace** | [Click to Access](https://www.postman.com/workspace/LADY-JEAN-Pepito's-Workspace~078d971f-4a9c-4b81-869f-5035d79f0389/collection/53408775-2fc421c0-cb0b-46ec-9785-70dcba054c55) |
 
 ---
