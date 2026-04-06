@@ -5,7 +5,7 @@
   
   <!-- Developer Badge with Glow Effect -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%2B+Vue.js+Enthusiast;Scholarship+Management+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=500&lines=Framework+Development;Laravel+Scholarship+Management" alt="Typing SVG" />
   </p>
   
   <p>
