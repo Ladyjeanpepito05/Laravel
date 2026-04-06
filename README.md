@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Gradient Banner with Name -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Ronbell%20B.%20Abarquez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Scholarship%20Management%20System%20%7C%20BSIT-2D&descAlignY=50&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Lady%20Jean%20E.%20Pepito&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Scholarship%20Management%20System%20%7C%20BSIT-2D&descAlignY=50&descAlign=62" width="100%" alt="Header Banner" />
   
   <!-- Developer Badge with Glow Effect -->
   <p>
@@ -9,7 +9,7 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/👨‍💻_Developer-Ronbell_B._Abarquez-8b5cf6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1e1e2e&color=8b5cf6&logoWidth=25" alt="Developer" />
+    <img src="https://img.shields.io/badge/👨‍💻_Developer-Lady_Jean_E._Pepito-8b5cf6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1e1e2e&color=8b5cf6&logoWidth=25" alt="Developer" />
     <img src="https://img.shields.io/badge/📚_Course-BSIT_2D-3b82f6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1e1e2e&color=3b82f6" alt="Class" />
   </p>
 
@@ -32,7 +32,7 @@
 
   <!-- Project Views Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ronbell-abarquez-scholarship&label=Project%20Views&color=8b5cf6&style=for-the-badge" alt="Project Views" />
+    <img src="https://komarev.com/ghpvc/?username=ladypepito-scholarship&label=Project%20Views&color=8b5cf6&style=for-the-badge" alt="Project Views" />
   </p>
 
 </div>
@@ -44,7 +44,7 @@
 | | |
 |---|---|
 | **Project Title** | Scholarship Management System |
-| **Developer** | Ronbell B. Abarquez |
+| **Developer** | Lady Jean E. Pepito |
 | **Course & Section** | BSIT - 2D |
 | **Technology Stack** | Laravel 10+, Vue.js 3, MySQL, Tailwind CSS |
 | **Repository** | [GitHub Repository Link] |
@@ -86,6 +86,21 @@ The **Scholarship Management System** is a full-stack web application built with
 - [⚠️ Troubleshooting](#️-troubleshooting)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+
+---
+
+## 🚀 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+| Tool | Version | Description |
+|------|---------|-------------|
+| <img src="https://img.icons8.com/color/24/000000/xampp.png"/> **XAMPP** | 8.0+ | Includes PHP, MySQL, and Apache |
+| <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/> **VS Code** | Latest | Recommended code editor |
+| <img src="https://img.icons8.com/color/24/000000/composer.png"/> **Composer** | 2.x | PHP dependency manager |
+| <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> **Node.js** | 18.x+ | JavaScript runtime & npm |
+| <img src="https://img.icons8.com/color/24/000000/git.png"/> **Git** | Latest | Version control |
+| <img src="https://img.icons8.com/color/24/000000/postman-api.png"/> **Postman** | Latest | API testing (optional) |
 
 ---
 
