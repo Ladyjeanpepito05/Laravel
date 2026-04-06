@@ -23,8 +23,6 @@
   <p>
     <a href="https://www.postman.com/workspace/LADY-JEAN-Pepito's-Workspace~078d971f-4a9c-4b81-869f-5035d79f0389/collection/53408775-2fc421c0-cb0b-46ec-9785-70dcba054c55" target="_blank">
       <img src="https://img.shields.io/badge/📮_Postman_API_Workspace-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1e2e&color=FF6C37" alt="Postman Workspace" />
-    </a>
-    <img src="https://img.shields.io/badge/📖_API_Documentation-00C7B7?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1e1e2e&color=00C7B7" alt="API Docs" />
   </p>
 
   <!-- Project Views Counter -->
