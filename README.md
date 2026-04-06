@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Gradient Banner with Name -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Lady%20Jean%20E.%20Pepito&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Scholarship%20Management%20System%20%7C%20BSIT-2D&descAlignY=50&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Lady%20Jean%20E.%20Pepito&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Scholarship%20Management%20System%20%7C%20BSIT-2E&descAlignY=50&descAlign=62" width="100%" alt="Header Banner" />
   
   <!-- Developer Badge with Glow Effect -->
   <p>
@@ -16,15 +16,12 @@
   <!-- Project Tech Stack Badges -->
   <p>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </p>
 
   <!-- API & Documentation Badges -->
   <p>
-    <a href="https://www.postman.com/ronbell112323-1778467/ronbell-abarquez-s-workspace/folder/52439620-018d84e4-8f01-40dc-bc80-4ba5d9b0f589" target="_blank">
+    <a href="https://www.postman.com/workspace/LADY-JEAN-Pepito's-Workspace~078d971f-4a9c-4b81-869f-5035d79f0389/collection/53408775-2fc421c0-cb0b-46ec-9785-70dcba054c55" target="_blank">
       <img src="https://img.shields.io/badge/📮_Postman_API_Workspace-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1e2e&color=FF6C37" alt="Postman Workspace" />
     </a>
     <img src="https://img.shields.io/badge/📖_API_Documentation-00C7B7?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1e1e2e&color=00C7B7" alt="API Docs" />
@@ -45,10 +42,10 @@
 |---|---|
 | **Project Title** | Scholarship Management System |
 | **Developer** | Lady Jean E. Pepito |
-| **Course & Section** | BSIT - 2D |
-| **Technology Stack** | Laravel 10+, Vue.js 3, MySQL, Tailwind CSS |
-| **Repository** | [GitHub Repository Link] |
-| **Postman Workspace** | [Click to Access](https://www.postman.com/ronbell112323-1778467/ronbell-abarquez-s-workspace/folder/52439620-018d84e4-8f01-40dc-bc80-4ba5d9b0f589) |
+| **Course & Section** | BSIT - 2E |
+| **Technology Stack** | Laravel 10+|
+| **Repository** | [GitHub Repository Link] (https://github.com/Ladyjeanpepito05/Laravel) |
+| **Postman Workspace** | [Click to Access](https://www.postman.com/workspace/LADY-JEAN-Pepito's-Workspace~078d971f-4a9c-4b81-869f-5035d79f0389/collection/53408775-2fc421c0-cb0b-46ec-9785-70dcba054c55) |
 
 ---
 
@@ -61,10 +58,8 @@ The **Scholarship Management System** is a full-stack web application built with
 - ✅ **Complete CRUD Operations** for Users, Applicants, and Scholarships
 - ✅ **Role-Based Access Control** for secure data management
 - ✅ **RESTful API** with Postman Collection for testing
-- ✅ **Responsive Design** - Works on Desktop, Tablet, and Mobile
-- ✅ **Real-time Form Validation** using Vue.js
 
-> 🔗 **Postman API Collection** — [Click here to explore the API endpoints](https://www.postman.com/ronbell112323-1778467/ronbell-abarquez-s-workspace/folder/52439620-018d84e4-8f01-40dc-bc80-4ba5d9b0f589)
+> 🔗 **Postman API Collection** — [Click here to explore the API endpoints](https://www.postman.com/workspace/LADY-JEAN-Pepito's-Workspace~078d971f-4a9c-4b81-869f-5035d79f0389/collection/53408775-2fc421c0-cb0b-46ec-9785-70dcba054c55)
 
 ---
 
@@ -75,10 +70,10 @@ The **Scholarship Management System** is a full-stack web application built with
 - [🚀 Prerequisites](#-prerequisites)
 - [🛠️ Installation Guide](#️-installation-guide)
 - [📦 Project Features](#-project-features)
-  - [🔐 Authentication](#-authentication)
-  - [👥 User Management](#-user-management)
-  - [📝 Applicant Management](#-applicant-management)
-  - [🎓 Scholarship Management](#-scholarship-management)
+- [🔐 Authentication](#-authentication)
+- [👥 User Management](#-user-management)
+- [📝 Applicant Management](#-applicant-management)
+- [🎓 Scholarship Management](#-scholarship-management)
 - [📊 Database Schema](#-database-schema)
 - [📁 Project Structure](#-project-structure)
 - [🌐 API Endpoints](#-api-endpoints)
